@@ -43,6 +43,7 @@ input[type='text']{
     height: 50px;
     padding: 10px;
     text-align: center;
+    pointer-events: none;
 }
 input[type='text']:focus {
     background-color: #3D4153;
@@ -51,13 +52,6 @@ input[type='text']:focus {
 }
 .numbers {
     margin: 30px 0;
-}
-
-.calc-typed {
-margin-top: 20px;
-font-size: 45px;
-text-align: right;
-color: #fff;
 }
 
 .calc-button-row {
@@ -74,7 +68,6 @@ display: inline-block;
 font-size: 25px;
 text-align: center;
 vertical-align: middle;
-margin-right: -4px;
 border-radius: 10px;
 cursor: pointer;
 }
