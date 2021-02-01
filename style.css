@@ -3,6 +3,7 @@
 }
 body {
     background: #10101B;
+    font-family: poppins;
     
 }
 .container {
@@ -14,6 +15,7 @@ body {
     background: #222436;
     padding: 30px;
     text-align: center;
+    margin-bottom: 30px;
 }
 .generate-btn{
     margin-top: 140px;
@@ -40,6 +42,7 @@ input[type='text']{
     border: 2px solid #858299;
     height: 50px;
     padding: 10px;
+    text-align: center;
 }
 input[type='text']:focus {
     background-color: #3D4153;
@@ -62,7 +65,7 @@ width: 100%;
 }
 
 .button {
-width: 20%;
+width: 25%;
 background: #425062;
 color: #fff;
 padding: 20px 0;
@@ -109,11 +112,11 @@ color: #E0B612;
     background: #222436;
     margin-top: 20px;
     border-radius: 15px;
-    padding: 5px 20px;
+    padding: 10px 20px;
     display: none;
 }
 .notify-section{
-    width: 35%;
+    max-width: 90%;
     margin: 0 auto;
 }
 .action-left {

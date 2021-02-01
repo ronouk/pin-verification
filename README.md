@@ -1,2 +1,2 @@
 # pin-verification
-![alt text](https://i.ibb.co/0j2RTgB/Screenshot-1.png)
+![alt text](https://i.ibb.co/QKPJ1YK/Screenshot-3.png)
