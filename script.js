@@ -15,6 +15,7 @@ function generatePin() {
     const pinInput = document.getElementById('pin');
     pinInput.value = getPin();
     document.getElementById('typed-pin').value = '';
+    document.getElementById('notify-success').style.display='none';
 }
 
 // handle calculator button event
